@@ -12,6 +12,6 @@ class First < Formula
 
   def install
     bin.install "first"
-    include.install "modules/*.sh"
+    include.install Dir["modules/*.sh"]
   end
 end
