@@ -4,7 +4,7 @@
 class First < Formula
   desc ""
   homepage ""
-  url "https://codeload.github.com/gitqh/first/tar.gz/v0.0.9.tar.gz"
+  url "https://codeload.github.com/gitqh/first/tar.gz/v0.0.10"
   sha256 "c9beff7658c46e29ec84bf5c43d7cec7d82505f87ff049d94cefbaf2811a4057"
   license ""
 
