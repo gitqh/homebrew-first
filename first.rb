@@ -4,8 +4,8 @@
 class First < Formula
   desc ""
   homepage ""
-  url "https://github.com/gitqh/first/archive/v0.0.7"
-  sha256 "2fca9af8e1177fdc4640f514c3366469976a8618a3d4324ee4fcbfb9f2165593"
+  url "https://github.com/gitqh/first/archive/v0.0.8.tar.gz"
+  sha256 "e03d7f52d6daba9ec9e7573e3711e87b9f603d095335f56c23cff9b9289b4ee8"
   license ""
 
   # depends_on "cmake" => :build
