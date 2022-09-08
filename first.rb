@@ -4,8 +4,8 @@
 class First < Formula
   desc ""
   homepage ""
-  url "https://codeload.github.com/gitqh/first/tar.gz/v0.0.13"
-  sha256 "48478c093b9d025a3229ea843cad7644520f57a7b6924f502589092bdc3abb2e"
+  url "https://codeload.github.com/gitqh/first/tar.gz/v0.0.14"
+  sha256 "e6a412bedafcd3447346a895fe72df4629c5f96bb6dfb24b89bb118f889e51d0"
   license ""
 
   # depends_on "cmake" => :build
